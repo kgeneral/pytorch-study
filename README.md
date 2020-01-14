@@ -1,1 +1,1 @@
-# pytotch-study
+# pytorch-study
